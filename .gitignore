@@ -1,0 +1,11 @@
+.DS_Store
+
+.idea
+*.iml
+.gradle
+
+bin
+build
+out
+myjre
+/java
